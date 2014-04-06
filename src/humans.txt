@@ -1,0 +1,12 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# Author
+
+
+# THANKS
+
+
+# TECHNOLOGY COLOPHON
+
+    HTML5 Boilerplate http://h5bp.com
